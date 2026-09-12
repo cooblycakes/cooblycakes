@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cooblycakes/cooblycakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hellooo
 
-Here are some ideas to get you started:
+will probably tweak this later :,)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+but hi!
+
+i like to just keep random stuff here im not super active.
+i play games and animate stuff sometimes
+
+too shy to post but alas 
+
+thanks!
+
+</div)
